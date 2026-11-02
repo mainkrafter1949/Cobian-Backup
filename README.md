@@ -208,4 +208,4 @@ Cobian Backup is provided as a full free version, ensuring that all features and
 Protect your data today! Download Cobian Backup for free and experience hassle-free backups with all features included.
 
 ---
-**Last updated:** 2026-11-02 08:36:52 UTC
+**Last updated:** 2026-11-02 18:54:41 UTC
